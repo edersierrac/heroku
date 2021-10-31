@@ -9,6 +9,7 @@
  
  echo "¡Hola mundo! <br>";
  echo "prueba modificar";
+ echo "prueba modificar 2";
  
  for($i = 0; $i < 10; $i++)
   {
