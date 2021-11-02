@@ -40,7 +40,7 @@
                                 <thead class="table-success table-striped" >
                                     <tr>
                                         <th>Codigo</th>
-                                        <th>Dni</th>
+                                        <th>N.identificacion</th>
                                         <th>Nombres</th>
                                         <th>pellidos</th>
                                         <th></th>
