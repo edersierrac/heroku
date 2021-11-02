@@ -27,7 +27,7 @@
                                 <form action="insertar.php" method="POST">
 
                                     <input type="text" class="form-control mb-3" name="cod_estudiante" placeholder="cod estudiante">
-                                    <input type="text" class="form-control mb-3" name="dni" placeholder="Dni">
+                                    <input type="text" class="form-control mb-3" name="dni" placeholder="N.identificacion">
                                     <input type="text" class="form-control mb-3" name="nombres" placeholder="Nombres">
                                     <input type="text" class="form-control mb-3" name="apellidos" placeholder="Apellidos">
                                     
