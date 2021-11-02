@@ -42,7 +42,7 @@
                                         <th>Codigo</th>
                                         <th>N.identificacion</th>
                                         <th>Nombres</th>
-                                        <th>pellidos</th>
+                                        <th>Apellidos</th>
                                         <th></th>
                                         <th></th>
                                     </tr>
